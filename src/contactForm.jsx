@@ -22,7 +22,7 @@ function ContactForm() {
         alert('Request sent successfully');
       }
     } catch (error) {
-      console.error('Error:', error);
+      console.error('here is an error Error:', error);
     }
   };
 
